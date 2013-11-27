@@ -22,3 +22,9 @@
 {*  FILE: README.md                                                        *}
 {*                                                                         *}
 {***************************************************************************}
+
+MS-DOS based application to prepare graphical drawings, generate and optimize 
+the control, and drive an on-texture drawing robot machine.
+
+The application includes embedded object-oriented GUI environment to support
+operating and design design amendment functionality using the touch screen.
